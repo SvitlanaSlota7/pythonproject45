@@ -1,1 +1,1 @@
-# pythonproject45
+# Асинхронність з Django
